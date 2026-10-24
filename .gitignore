@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.csv
+*.json
+!leads_sample.csv
+.env
+venv/
+.vscode/

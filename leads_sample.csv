@@ -1,0 +1,4 @@
+name,rating,reviews_count,category,phone,website,address,maps_url,search_query
+Apex Dental Care,4.9,342,Dentist,+1 212-555-0199,https://apexdentalcare.example.com,"450 Lexington Ave, New York, NY",https://maps.google.com/?q=Apex+Dental+Care,Dentists in New York
+Manhattan Smile Studio,4.8,218,Dentist,+1 212-555-0142,https://manhattansmiles.example.com,"120 Broadway, New York, NY",https://maps.google.com/?q=Manhattan+Smile+Studio,Dentists in New York
+Elite Dental Spa,4.7,185,Dentist,+1 212-555-0177,https://elitedentalspa.example.com,"350 5th Ave, New York, NY",https://maps.google.com/?q=Elite+Dental+Spa,Dentists in New York
